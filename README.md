@@ -37,7 +37,7 @@ global server-https://easy-gold-scallop-hose.cyclic.app/users/login
 Local server-localhost:3000/users/login
 
 ==================================================================================================================================================
-Note: after posting login details, you will recive a bcerypt token, now you can update it in headers as authentication , now your all api will work
+Note: after posting login details, you will recive a bcrypt token, now you can update it in headers as authentication , now your all api will work
 ==================================================================================================================================================
  
  
