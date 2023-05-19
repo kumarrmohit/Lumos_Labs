@@ -1,5 +1,5 @@
 # Lumos_Labs
-===========================================================================================================================
+=====================================================================
 Global api- https://easy-gold-scallop-hose.cyclic.app/nfts (it is authenticate for getting into it first you need to login)
 ===========================================================================================================================
 First step- (These all below mentioned endPoints are authenticated, when user try to use this API , user will recive a message that "PLEASE LOGIN FIRST".:-
